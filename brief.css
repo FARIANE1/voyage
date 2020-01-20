@@ -364,8 +364,8 @@ h1{
 }
 .foot .azer #p1{
    font-family: Open Sans; 
-   margin-left: 40%; 
-   margin-top: -50px; 
+   margin-left: 10%; 
+   margin-top: -48px; 
    color: black; 
    font-size: 20px;
 }
@@ -466,6 +466,15 @@ h1{
  .azer{
   margin-left: 100px
  }
+.hh {
+    position: relative;
+    top: 65px;
+    right: 15px;
+}
+#p1{
+  position: relative;
+    top: 37px;
+}
 
 }
 @media(max-width: 360px){
@@ -490,5 +499,7 @@ h1{
 .titreheader {
   font-size: 10px;
 }
+
+
 }
 
