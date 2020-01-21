@@ -136,19 +136,7 @@ a:hover,a.active{
   background-position: center;
   height: 600px;
   background-size: cover;
-  animation: animate 30s ease-out infinite;
-}
-@keyframes animate {
-  0%,100% {
-    background-image: url(March.jpg);
-
-  }
-  20%{
-    background-image: url(moham.jpg);
-  }
-  40% {
-    background-image: url(Hand.jpg);
-  }
+  
 
 }
   
